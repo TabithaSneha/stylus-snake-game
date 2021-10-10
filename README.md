@@ -51,4 +51,4 @@ The Stylus Snake Game was constructed using the concepts of Computer Vision from
 
 ## View Project:-
 
-Click [here](https://drive.google.com/file/d/1ec97Zv62rN6LLIoCmTJ9C8LFJAthfGyw/view?usp=sharing) to view the demonstration of the Stylus Snake Game.
+Click [here](https://drive.google.com/file/d/1dIJKaCovz5QvhqxD-vpsmabsd6NoLNYW/view?usp=sharing) to view the demonstration of the Stylus Snake Game.
