@@ -2,7 +2,7 @@
 
 ***
 
-In this project, the Classic Snake Game (which uses a keypad-control) has been recreated to a Stylus-controlled Snake Game, where the movement of the snake is controlled a Stylus in front of the computer camera. 
+In this project, the Classic Snake Game (which uses a keypad-control) has been recreated to a Stylus-controlled Snake Game, where the movement of the snake is controlled by a Stylus in front of the computer camera. 
 
 ## Results:-
 
@@ -16,7 +16,7 @@ In this project, the Classic Snake Game (which uses a keypad-control) has been r
 
 ## Methodology:-
 
-The Stylus Snake Game was constructed using the concepts of Computer Vision from OpenCV and the game environment from Pygame.
+The Stylus Snake Game was constructed using the concepts of Computer Vision from _OpenCV_ and the game environment from _Pygame_.
 
 ## Structure of the Code:-
 
