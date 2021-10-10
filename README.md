@@ -6,7 +6,7 @@ In this project, the Classic Snake Game (which uses a keypad-control) has been r
 
 ## Results:-
 
-![Pic](C:\Users\celin\OneDrive\Pictures\Screenshots\Ex.png)
+![Alt text](https://drive.google.com/file/d/1tgjV98wMaaEc1gJuP5PAgjYBABEcGiat/view?usp=sharing "Optional title")
 
 ## Methodology:-
 
