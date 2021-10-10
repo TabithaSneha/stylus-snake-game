@@ -6,10 +6,10 @@ In this project, the Classic Snake Game (which uses a keypad-control) has been r
 
 ## Results:-
 
-# Capturing the Stylus:
+### Capturing the Stylus:
 ![55E9AE87-3550-4678-A15E-A29106A2A55C](https://user-images.githubusercontent.com/87858655/136691892-5bca8dfa-80a8-438d-906c-59087345ff92.jpeg)
 
-# Stylus Snake Game:
+### Stylus Snake Game:
 ![D517F2FF-6C2D-4D6B-85D5-568D3035A089](https://user-images.githubusercontent.com/87858655/136691821-96d4a427-f87d-4ad1-8f39-536c43c6dca4.jpeg)
 
 ![65CB77AB-1F31-4B87-B393-A11804E1D857](https://user-images.githubusercontent.com/87858655/136691895-960f7807-59e2-44e3-bf22-9e36638b1d4a.jpeg)
@@ -51,4 +51,4 @@ The Stylus Snake Game was constructed using the concepts of Computer Vision from
 
 ## View Project:-
 
-Click here to view the demonstration of the Stylus Snake Game.
+Click [here](https://drive.google.com/file/d/1ec97Zv62rN6LLIoCmTJ9C8LFJAthfGyw/view?usp=sharing) to view the demonstration of the Stylus Snake Game.
