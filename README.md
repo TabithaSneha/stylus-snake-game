@@ -43,7 +43,7 @@ The Stylus Snake Game was constructed using the concepts of Computer Vision from
 * Created the main game window, along with the snake body and also added fruits at random positions.
 * Used a function to add 5 different obstacle layouts randomly to the game screen.
 * Directed the motion of the snake according to the movements of the Stylus.
-* Added the following game over constraints:
+* Added the following 'Game Over' constraints:
     * Getting out-of-bounds of the game window.
     * Touching the snake body.
     * Touching the obstacles.
