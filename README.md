@@ -8,7 +8,7 @@ In this project, the Classic Snake Game (which uses a keypad-control) has been r
 
 ### Capturing the Stylus:
 ![55E9AE87-3550-4678-A15E-A29106A2A55C](https://user-images.githubusercontent.com/87858655/136691892-5bca8dfa-80a8-438d-906c-59087345ff92.jpeg)
-<img src="https://user-images.githubusercontent.com/87858655/136691892-5bca8dfa-80a8-438d-906c-59087345ff92.jpeg" width="150" height="280">
+<img src="https://user-images.githubusercontent.com/87858655/136691892-5bca8dfa-80a8-438d-906c-59087345ff92.jpeg" width="750" height="560">
 
 ### Stylus Snake Game:
 ![D517F2FF-6C2D-4D6B-85D5-568D3035A089](https://user-images.githubusercontent.com/87858655/136691821-96d4a427-f87d-4ad1-8f39-536c43c6dca4.jpeg)
